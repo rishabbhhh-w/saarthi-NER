@@ -6,8 +6,6 @@
 
 NER-Sarthi is a web dashboard that helps visualise logistics routes and accessibility across the North Eastern Region (NER) of India, combining interactive maps with data charts in a clean, responsive interface.
 
-> Forked from [rishabbhhh-w/saarthi-NER](https://github.com/rishabbhhh-w/saarthi-NER).
-
 ---
 
 ## ✨ Features
